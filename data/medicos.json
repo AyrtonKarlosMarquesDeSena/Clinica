@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Dro. Ayrton Sena",
+    "idade": 29,
+    "cpf": "987.654.321-00",
+    "especialidade": "Cardiologia"
+  },
+  {
+    "nome": "Dro. Karlos Mendes",
+    "idade": 40,
+    "cpf": "928.393.398-19",
+    "especialidade": "Ortopedia"
+  },
+  {
+    "nome": "Dro. Vinicius Mendes",
+    "idade": 40,
+    "cpf": "928.393.776-18",
+    "especialidade": "Geral"
+  },
+  {
+    "nome": "Dra. Raianny Mendes",
+    "idade": 40,
+    "cpf": "928.393.542-12",
+    "especialidade": "Ortopedia"
+  }
+]
